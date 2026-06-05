@@ -67,7 +67,6 @@ Atualmente faço estágio na Câmara Municipal de São José, onde participo do 
 Estou sempre buscando aprender coisas novas e me aprofundar em temas que despertam meu interesse, não apenas na área de programação.
 Tenho interesse em oportunidades em empresas e startups onde eu possa crescer profissionalmente e contribuir para a evolução dos projetos.
 
-### Onde me achar
 [![Last.fm](https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/Gafwen)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12160473686?si=VvpQQXjETuuBhB4UkZ2JQg)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pedrodalcontato@gmail.com)
