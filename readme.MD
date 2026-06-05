@@ -72,7 +72,3 @@ Tenho interesse em oportunidades em empresas e startups onde eu possa crescer pr
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12160473686?si=VvpQQXjETuuBhB4UkZ2JQg)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pedrodalcontato@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](https://outlook.office.com/mail/deeplink/compose?to=pedrodalcontato@outlook.com)
-
-<a href="https://discord.com/users/409716084535722010" target="_blank">
-  <img src="https://lanyard.cnrad.dev/api/409716084535722010?bg=1e1e2e&amp;showDiscordStatus=true&amp;show_offline=false">
-</a>
