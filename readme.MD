@@ -56,14 +56,6 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 
 
-
-
-
-[![Estatísticas do GitHub](https://seu-projeto.vercel.app/api?username=SEU_USUARIO&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 ### 💼 Apresentação Profissional
 
 Sou desenvolvedor back-end e estudante de Análise e Desenvolvimento de Sistemas na Faculdade Municipal de Palhoça. 
