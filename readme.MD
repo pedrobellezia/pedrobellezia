@@ -13,7 +13,9 @@
 <img src="walking.gif" height="100" />
 <br><br>
 
+<br><br>
 [![Estatísticas do GitHub](https://github-readme-stats-eight-livid-74.vercel.app/api?username=pedrobellezia&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
 
 
 
