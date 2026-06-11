@@ -13,6 +13,9 @@
 <img src="walking.gif" height="100" />
 <br><br>
 
+[![Estatísticas do GitHub](https://github-readme-stats-eight-livid-74.vercel.app/api?username=pedrobellezia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### 💻 Linguagens
 
@@ -53,6 +56,8 @@
 
 
 
+
+[![Estatísticas do GitHub](https://seu-projeto.vercel.app/api?username=SEU_USUARIO&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
