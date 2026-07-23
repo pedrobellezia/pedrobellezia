@@ -28,7 +28,6 @@
 ### ⚙️ Frameworks & Bibliotecas
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge\&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
 ![Playwright](https://img.shields.io/badge/playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
