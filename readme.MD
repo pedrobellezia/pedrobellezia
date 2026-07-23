@@ -5,7 +5,6 @@
 <pre>
     💼 ADS @ FMP • Back-end dev • Analista de sistemas
     💻 RESTful API • WebScraping • Automation
-    📖 Clean Architecture • Multi-tenant • Microservices
     🎮 Music • Games • Code • Art
     🐕 Lola & Lolita 
 </pre>
