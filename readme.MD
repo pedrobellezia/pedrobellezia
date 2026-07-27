@@ -12,9 +12,7 @@
 <br><br>
 
 <br><br>
-<p align="center">
-  <img height="170" width="700" src="https://github-readme-stats-eight-livid-74.vercel.app/api?username=pedrobellezia&show_icons=true&theme=dracula" />
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats-eight-livid-74.vercel.app/api?username=pedrobellezia&show_icons=true&theme=dracula&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
 
