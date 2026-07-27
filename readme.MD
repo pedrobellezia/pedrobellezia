@@ -13,11 +13,7 @@
 <br><br>
 
 <br><br>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=pedrobellezia&show_icons=true&theme=dracula&count_private=true&hide_border=true&width=900" alt="Estatísticas do GitHub" width="900" />
-  </a>
-</div>
+[![Estatísticas do GitHub](https://github-readme-stats-eight-livid-74.vercel.app/api?username=pedrobellezia&show_icons=true&theme=dracula&width=600)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
