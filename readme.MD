@@ -13,9 +13,11 @@
 
 <br><br>
 [![Estatísticas do GitHub](https://github-readme-stats-eight-livid-74.vercel.app/api?username=pedrobellezia&show_icons=true&theme=dracula&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrobellezia&show_icons=true&theme=dracula)
 
 <br><br>
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrobellezia&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
