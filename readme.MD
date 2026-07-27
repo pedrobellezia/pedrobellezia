@@ -13,7 +13,7 @@
 
 <br><br>
 <p align="center">
-  <img height="170" src="https://github-readme-stats-eight-livid-74.vercel.app/api?username=pedrobellezia&show_icons=true&theme=dracula" />
+  <img height="170" width="700" src="https://github-readme-stats-eight-livid-74.vercel.app/api?username=pedrobellezia&show_icons=true&theme=dracula" />
 </p>
 <br><br>
 
