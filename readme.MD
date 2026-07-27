@@ -5,17 +5,16 @@
 <pre>
     💼 ADS @ FMP • Back-end dev • Analista de sistemas
     💻 RESTful API • WebScraping • Automation
-    🎮 Music • Games • Code • Art
     🐕 Lola & Lolita 
 </pre>
 <br>
 <img src="walking.gif" height="100" />
 <br><br>
 
-<br><br>
-[![Estatísticas do GitHub](https://github-readme-stats-eight-livid-74.vercel.app/api?username=pedrobellezia&show_icons=true&theme=dracula&width=600)](https://github.com/anuraghazra/github-readme-stats)
-
-<br><br>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-eight-livid-74.vercel.app/api?username=pedrobellezia&show_icons=true&theme=dracula" />
+  <img height="170" src="https://github-readme-stats-eight-livid-74.vercel.app/api/top-langs/?username=pedrobellezia&layout=compact&theme=dracula" />
+</p>
 
 
 
